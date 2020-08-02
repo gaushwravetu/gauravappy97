@@ -7,8 +7,8 @@
 <a href="mailto:gauravappy1997@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <h2>Tools: </h2>
 <div class="center"
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
