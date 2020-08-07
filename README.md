@@ -5,8 +5,10 @@
 <a href="https://twitter.com/gaurav_singh97" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://www.facebook.com/profile.php?id=100008250870529" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 <a href="mailto:gauravappy1997@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<h2>Technical Skills: </h2>
-<div class="center">
+<br />
+
+------
+
 ## 📊 Technical Skills
 <!--START_SECTION:waka-->
 ```text
@@ -24,4 +26,6 @@ ML              █████████░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <br />
 
+
+------
 
