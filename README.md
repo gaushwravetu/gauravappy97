@@ -13,17 +13,17 @@
 ## 📊 Technical Skills
 <!--START_SECTION:waka-->
 ```text
-HTML5 & CSS3    ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜
-Python          ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜
-SQL             ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜
-Java            ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜
-C               ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜
-JavaScript      ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜
-MongoDB         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜
-ExpressJS       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜
-ReactJS         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜
-NodeJS          ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜ 
-ML              ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜
+HTML5 & CSS3    🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
+Python          🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
+SQL             🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
+Java            🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
+C               🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
+JavaScript      🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
+MongoDB         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
+ExpressJS       🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
+ReactJS         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
+NodeJS          🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 
+ML              🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 ```
 <!--END_SECTION:waka-->
 <br />
