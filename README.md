@@ -17,9 +17,9 @@
 HTML5 & CSS3    🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
 Python          🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
 SQL             🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
-Java            🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
+Java            🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
 C               🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
-JavaScript      🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
+JavaScript      🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
 MongoDB         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 ExpressJS       🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 ReactJS         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
