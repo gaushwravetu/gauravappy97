@@ -25,7 +25,7 @@ MongoDB         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 ExpressJS       🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 ReactJS         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 NodeJS          🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 
-ML              🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
+Data Science    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
 ```
 <!--END_SECTION:waka-->
 <br />
