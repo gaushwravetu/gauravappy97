@@ -16,15 +16,14 @@
 ```text
 HTML5 & CSS3    🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
 Python          🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
+Django          🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
 SQL             🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
 Java            🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
 C               🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
 JQuery          🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
 JavaScript      🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
 MongoDB         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
-ExpressJS       🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
-ReactJS         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
-NodeJS          🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 
+Postgres SQL    🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 
 Data Science    🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜
 ```
 <!--END_SECTION:waka-->
